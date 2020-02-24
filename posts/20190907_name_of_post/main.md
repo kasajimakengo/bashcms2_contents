@@ -1,5 +1,5 @@
 ---
-Keywords
+Keywords: bashcms2, bash, 大阪
 Copyright: (C) 2019 Kasajima Kengo
 ---
 
