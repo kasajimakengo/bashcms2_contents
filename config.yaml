@@ -11,7 +11,7 @@ links:
   - text: 'おみくじLinebot'
     href: 'https://qr-official.line.me/sid/L/601lngwt.png'
 sociallinks:
-- icon: 'fa-weitter-square'
+- icon: 'fa-twitter-square'
   href: 'https://twitter.com/tyappei'
 - icon: 'fa-youtube-square'
   href: ''
