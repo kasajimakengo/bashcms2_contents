@@ -6,7 +6,7 @@ links:
 - text: '外部サイト'
   href: './'
   sublinks:
-- text: 'GitHub'
-  href: 'https://github.com/kasajimakengo/bashcms2_contents'
-- text: 'Linebot'
-  href: ''
+  - text: 'GitHub'
+    href: 'https://github.com/kasajimakengo/bashcms2_contents'
+  - text: 'Linebot'
+    href: ''
