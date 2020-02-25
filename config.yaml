@@ -3,5 +3,10 @@ links:
   href: '/?page=top'
 - text: '開発日誌(ブログ)'
   href: '/?post'
+- text: '外部サイト'
+  href: './'
+  sublinks:
 - text: 'GitHub'
   href: 'https://github.com/kasajimakengo/bashcms2_contents'
+- text: 'Linebot'
+  href: ''
