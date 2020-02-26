@@ -1,5 +1,5 @@
 ---
-Keywords
+Keywords: test, test2
 Copyright: (C) 2019 Kasajima Kengo
 ---
 
