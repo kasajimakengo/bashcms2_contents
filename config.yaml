@@ -1,3 +1,7 @@
+protocol: 'https:'
+host: 'kasajima-tech'
+sitetitle: '赤阪のエンジニアの日常'
+sitesubtitle: '4kディスプレイは最高'
 links:
 - text: 'top'
   href: '/?page=top'
