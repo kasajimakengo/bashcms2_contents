@@ -1,8 +1,8 @@
 ---
-Keywords
-Copyright: (C) 2019 Kasajima Kengo
+Keywords: 告知
+Copyright: (C) 2020 Kasajima Kengo
 ---
 
-# bashcms2
+# エンジニアの理想のライフスタイルを追求するつもりです。
 
 絶賛作成中テスト
