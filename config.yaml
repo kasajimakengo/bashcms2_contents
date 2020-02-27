@@ -3,8 +3,6 @@ host: 'kasajima-tech.com'
 sitetitle: '赤阪のエンジニアの日常'
 sitesubtitle: '4kディスプレイは最高'
 links:
-- text: 'top'
-  href: '/?page=top'
 - text: '開発日誌(ブログ)'
   href: '/?post'
 - text: '外部サイト'
