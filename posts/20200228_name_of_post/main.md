@@ -1,9 +1,8 @@
 ---
-Keywords
-Copyright: (C) 2019 Kasajima Kengo
+Keywords: ガジェット、ディスプレイ
+Copyright: (C) 2020 Kasajima Kengo
 ---
 
-# bashcms2
+# 僕が考える最強のデスク環境
 
-絶賛作成中テスト
-その1
+とりあえずタイトルだけ書いていくスタイル
