@@ -1,5 +1,5 @@
 ---
-Keywords: ガジェット、ディスプレイ
+Keywords: ガジェット,ディスプレイ
 Copyright: (C) 2020 Kasajima Kengo
 ---
 
