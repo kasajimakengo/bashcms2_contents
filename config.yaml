@@ -1,7 +1,7 @@
 protocol: 'https:'
 host: 'kasajima-tech.com'
 sitetitle: '赤阪のエンジニアの日常'
-sitesubtitle: '4kディスプレイは最高'
+sitesubtitle: '日々の成功・失敗に関しての備忘録を書くブログ。5kディスプレイは最高'
 links:
 - text: '開発日誌(ブログ)'
   href: '/?post'
