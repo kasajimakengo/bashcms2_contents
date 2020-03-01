@@ -39,6 +39,8 @@ MacBookPro(2018) 15インチ 32メモリ
 https://www.apple.com/jp/shop/product/HMUB2J/A/lg-ultrafine-5k-display
 
 
+溝口
+
 
 
 
