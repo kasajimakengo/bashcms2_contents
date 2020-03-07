@@ -1,8 +1,8 @@
 ---
-Keywords: 洋服
+Keywords: 洋服,  
 Copyright: (C) 2020 Kasajima Kengo
 ---
-# Uniqlo uを買ってきた
+# Uniqlo uを買ってきた  
 
 # はじめに
 Youtubeを見ていたらUniqlo uなるものの存在を知った。2020年の新作が出ているだかなんだかで盛り上がっている。
